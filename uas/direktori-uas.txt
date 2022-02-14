@@ -1,0 +1,1 @@
+direktori ini untuk mempermudah proses upload file agar tidak upload otomatis
